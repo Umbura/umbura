@@ -1,16 +1,29 @@
-## Hi there 👋
+#
 
-<!--
-**Umbura/umbura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante em gestão de dados na Universidade Federal do Piaui. Interesso-me por Machine Learning e NLP.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Atualmente, estou...
+- 🧠 Desenvolvendo modelos de NLP para detecção e classificação de discurso de ódio.  
+- 🛠️ Expandindo meu dataset e otimizando meu F1-Score em direção a 0.93.  
+- 📦 Construindo projetos pessoais para fortalecer meu portfólio no GitHub.  
+- 📚 Estudando Estruturas de Dados, Python, APIs e conceitos de MLOps.
+
+---
+
+## 🏆 Conquistas Recentes
+- Alcancei **0.90 de F1-Score** no meu classificador de discurso de ódio.  
+- Desenvolvi múltiplos experimentos de ML usando Transformers e datasets balanceados.  
+- Automatizei diversas tarefas usando Python, Git e Bash.  
+
+---
+
+## 🚀 Projetos em Destaque
+- **Classificador de Discurso de Ódio com NLP** — Detecção multiclass e multilabel.  
+- **[Seu Outro Projeto AQUI]** — descrição.  
+
+---
+
+## 📫 Contato
+- LinkedIn: https://www.linkedin.com/in/seu-usuario
