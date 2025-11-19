@@ -2,15 +2,14 @@
 
 Sou estudante de **Gestão de Dados** na Universidade Federal do Piauí.  
 Direciono meus estudos principalmente para **Python** e **SQL**, e tenho grande interesse pessoal por **Machine Learning** e **Processamento de Linguagem Natural (NLP)**.
-
+Meu github é direcionado a publicação de projetos com aplicabilidade real no mercado para fortalecer meu portfólio.
 ---
 
 ## 🔭 Atualmente, estou...
-- 📦 Construindo projetos pessoais com aplicabilidade real no mercado para fortalecer meu portfólio no GitHub.  
-- 🧠 Participando de um projeto de iniciação científica para publicação de artigos sobre modelos de NLP para detecção e classificação de discurso de ódio.  
-- 📚 Estudando artigos científicos e aplicando suas metodologias em projetos no GitHub.  
-- ☁️ Estudando Google Cloud e expandindo conhecimentos em tecnologias de nuvem.
-- 🛠️ Trabalhando em um Motor Preditivo de Risco de Crédito com XGBoost.
+-  Trabalhando em um Motor Preditivo de Risco de Crédito com XGBoost.
+-  Participando de um projeto de iniciação científica para publicação de artigos sobre modelos de NLP para detecção e classificação de discurso de ódio.  
+-  Estudando artigos científicos e aplicando suas metodologias em projetos no GitHub.  
+-  Estudando Google Cloud e expandindo conhecimentos em tecnologias de nuvem.
 
 ---
 
