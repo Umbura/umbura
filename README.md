@@ -17,7 +17,6 @@ Meu github é direcionado a publicação de projetos com aplicabilidade real no 
 ## 🏆 Conquistas Recentes
 - Alcancei **0.90 de F1-Score** no meu classificador de discurso de ódio.  
 - Desenvolvi um modelo com **98% de acurácia** na detecção de produtos fora do padrão de fabricação.  
-- Automatizei diversas tarefas utilizando **Python**, **Git** e **Bash**.  
 
 ---
 
