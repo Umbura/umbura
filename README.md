@@ -1,7 +1,7 @@
 # Olá!👋
 
 Me chamo Iago, sou estudante de **Gestão de Dados** na Universidade Federal do Piauí.  
-Direciono meus estudos principalmente para **Python** e **SQL**, e tenho grande interesse pessoal por **Machine Learning** e **Processamento de Linguagem Natural (NLP)**.
+Direciono meus estudos principalmente para **Python** e **SQL**, e tenho grande interesse pessoal por **Machine Learning** e **NLP**.
 Meu github é direcionado a publicação de projetos com aplicabilidade real no mercado para fortalecer meu portfólio.
 
 ---
