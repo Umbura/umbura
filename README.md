@@ -9,6 +9,7 @@ Meu github é direcionado a publicação de projetos com aplicabilidade real no 
 - Este repositório reflete minhas ideias e meu percurso.
 - A falta de materiais atualizados em português sempre foi um obstáculo para muitos colegas, e mesmo tendo bom domínio do inglês, também encontro dificuldade para localizar alguns conteúdos. Por isso, decidi optar por uma linguagem mais acessivel nos meus repositorios.
 - Gosto de criar projetos realistas, com funcionalidades de verdade e usando dados que se aproximam o máximo possível da realidade.
+- "Ao aprender, você ensinará; e ao ensinar, você aprenderá."
 
 ---
 
