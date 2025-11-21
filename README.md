@@ -1,8 +1,13 @@
-# Olá! 👋
+# Olá!👋 Eu sou Iago Aragão, mas pode me chamar de Aragão
 
 Sou estudante de **Gestão de Dados** na Universidade Federal do Piauí.  
 Direciono meus estudos principalmente para **Python** e **SQL**, e tenho grande interesse pessoal por **Machine Learning** e **Processamento de Linguagem Natural (NLP)**.
 Meu github é direcionado a publicação de projetos com aplicabilidade real no mercado para fortalecer meu portfólio.
+
+---
+## Meus Ideais
+- Como individuo gosto de expressar meus ideias, eles se refletem em tudo na minha vida, inclusive nos meus projetos. Este meu repositorio é um retrato disso.
+- A excasses de conteudo em portugues me incomoda, pois a maioria de meus colegas que não tem domonio sobre a lingua enfrentam dificuldades no aprendizado. Quando comecei, eu também tive essas mesmas dificuldades, por isso dedico o conteudo desse repositorio ao portugues, a fim de dar uma luz a quem está iniciando.
 
 ---
 
