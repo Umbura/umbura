@@ -18,7 +18,7 @@ Meu github é direcionado a publicação de projetos com aplicabilidade real no 
 -  Participando de um projeto de iniciação científica para publicação de artigos sobre modelos de NLP para detecção e classificação de discurso de ódio.  
 -  Estudando artigos científicos e aplicando suas metodologias em projetos no GitHub.  
 -  Estudando Google Cloud e expandindo conhecimentos em tecnologias de nuvem.
--  Engenheiro de dados do projeto "i speak kanoe", que visa contribuir para a restauração da lingua indigena brasileira.
+-  Engenheiro de dados no projeto “I Speak Kanoê”, dedicado a contribuir para a restauração das línguas indígenas brasileiras.
 
 ---
 
