@@ -8,7 +8,7 @@ Meu github é direcionado a publicação de projetos com aplicabilidade real no 
 ## Meus Ideais
 - Acredito que devo ensinar para realmente aprender. Por isso, viso sempre criar projetos didáticos.
 - A falta de materiais atualizados em português sempre foi um obstáculo para muitos de meus colegas, e mesmo tendo bom domínio do inglês, também encontro dificuldade para localizar alguns conteúdos. Por isso, decidi optar por uma linguagem mais acessivel nos meus repositorios.
-- Os projetos devem realistas, com funcionalidades de verdade e usando dados que se aproximam o máximo possível da realidade.
+- Meus projetos devem realistas, com funcionalidades de verdade e usando dados que se aproximam o máximo possível da realidade.
 
 ---
 
