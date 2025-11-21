@@ -14,10 +14,10 @@ Meu github é direcionado a publicação de projetos com aplicabilidade real no 
 
 ## 🔭 Atualmente, estou...
 -  Trabalhando em um Motor Preditivo de Risco de Crédito com XGBoost.
--  Participando de um projeto de iniciação científica para publicação de artigos sobre modelos de NLP para detecção e classificação de discurso de ódio.  
+-  Participando de um projeto de iniciação científica para publicação de artigos sobre modelos de NLP para detecção e classificação de discurso de ódio.
+-  Engenheiro de dados no projeto “I Speak Kanoê”, dedicado a contribuir para a restauração das línguas indígenas brasileiras.
 -  Estudando artigos científicos e aplicando suas metodologias em projetos no GitHub.  
 -  Estudando Google Cloud e expandindo conhecimentos em tecnologias de nuvem.
--  Engenheiro de dados no projeto “I Speak Kanoê”, dedicado a contribuir para a restauração das línguas indígenas brasileiras.
 
 ---
 
