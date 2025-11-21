@@ -1,4 +1,4 @@
-# Olá!👋 Eu sou Iago Aragão, mas pode me chamar de Aragão
+# Olá!👋
 
 Sou estudante de **Gestão de Dados** na Universidade Federal do Piauí.  
 Direciono meus estudos principalmente para **Python** e **SQL**, e tenho grande interesse pessoal por **Machine Learning** e **Processamento de Linguagem Natural (NLP)**.
