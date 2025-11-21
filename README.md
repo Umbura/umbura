@@ -6,8 +6,8 @@ Meu github é direcionado a publicação de projetos com aplicabilidade real no 
 
 ---
 ## Meus Ideais
-- Como individuo gosto de expressar meus ideias, eles se refletem em tudo na minha vida, inclusive nos meus projetos. Este meu repositorio é um retrato disso.
-- A excasses de conteudo em portugues me incomoda, pois a maioria de meus colegas que não tem domonio sobre a lingua enfrentam dificuldades no aprendizado. Quando comecei, eu também tive essas mesmas dificuldades, por isso dedico o conteudo desse repositorio ao portugues, a fim de dar uma luz a quem está iniciando.
+- Este repositório reflete minhas ideias e meu percurso. A falta de materiais atualizados em português sempre foi um obstáculo para muitos colegas, e mesmo tendo bom domínio do inglês, também encontro dificuldade para localizar alguns conteúdos. Por isso, decidi optar por uma linguagem mais acessivel nos meus repositorios.
+- 
 
 ---
 
