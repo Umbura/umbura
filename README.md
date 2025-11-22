@@ -5,7 +5,7 @@ Direciono meus estudos principalmente para **Python** e **SQL**, e tenho grande 
 Meu github é direcionado a publicação de projetos com aplicabilidade real no mercado para fortalecer meu portfólio.
 
 ---
-## Meus Ideais
+## 🏅 Meus Ideais
 - Acredito que devo ensinar para realmente aprender. Por isso, viso sempre criar projetos didáticos.
 - A falta de materiais atualizados em português sempre foi um obstáculo para muitos de meus colegas, e mesmo tendo bom domínio do inglês, também encontro dificuldade para localizar alguns conteúdos. Por isso, decidi optar, dentro do possivel, por uma linguagem mais acessivel nos meus repositorios.
 - Meus projetos devem ser realistas, com funcionalidades de verdade e usando dados que se aproximam o máximo possível da realidade.
